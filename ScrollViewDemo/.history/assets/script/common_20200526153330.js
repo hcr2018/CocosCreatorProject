@@ -1,0 +1,1 @@
+wi yxStyle = ["easy","just","difficult"];

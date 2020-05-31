@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ScrollViewProject",
+  "uuid": "ef0787f1-8944-4779-8fcd-9331230953ce",
+  "version": "2.3.3",
+  "id": "790fc981-2a2a-450c-a147-651887075ff9",
+  "isNew": false
+}

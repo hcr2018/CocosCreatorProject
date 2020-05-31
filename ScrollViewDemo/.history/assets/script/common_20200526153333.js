@@ -1,0 +1,1 @@
+window. yxStyle = ["easy","just","difficult"];

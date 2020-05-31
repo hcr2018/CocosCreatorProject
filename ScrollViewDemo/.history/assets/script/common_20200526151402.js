@@ -1,0 +1,1 @@
+var yxStyle = ["easy"];
